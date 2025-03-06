@@ -5,5 +5,5 @@
 **/results/dataflows_json/
 **/results/datasets_info/
 **/results/documentation/
-**/results/exported_pbix/
+**/results/exported_pbix/*.pbix
 **/results/tenant_metadata/
