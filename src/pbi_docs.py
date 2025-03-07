@@ -26,7 +26,7 @@ cmd = r"C:\Program Files\DAX Studio\dscmd.exe"
 ssas_dll = r"C:\Program Files\DAX Studio\bin\Microsoft.AnalysisServices.dll"
 
 # Path Power BI Desktop
-pbi_desktop = r"C:\Program Files\WindowsApps\Microsoft.MicrosoftPowerBIDesktop_2.140.1205.0_x64__8wekyb3d8bbwe\bin\PBIDesktop.exe"
+pbi_desktop = r"C:\Program Files\WindowsApps\Microsoft.MicrosoftPowerBIDesktop_2.140.1351.0_x64__8wekyb3d8bbwe\bin\PBIDesktop.exe"
 
 # DAX Query 
 dax_query = """
